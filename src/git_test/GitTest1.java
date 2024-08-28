@@ -11,6 +11,7 @@ public class GitTest1 {
         System.out.println("master conflict");
         System.out.println("hot-fix merge conflict");
 
+        System.out.println("github changes and idea changes");
 
     }
 }
